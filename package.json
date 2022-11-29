@@ -1,0 +1,23 @@
+{
+  "name": "jemison-labecommerce-backend13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future4code/Jemison-labEcommerce-backend13.git"
+  },
+  "keywords": [],
+  "author": "Jenni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future4code/Jemison-labEcommerce-backend13/issues"
+  },
+  "homepage": "https://github.com/future4code/Jemison-labEcommerce-backend13#readme",
+  "devDependencies": {
+    "chalk": "^5.1.2"
+  }
+}
